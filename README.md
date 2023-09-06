@@ -1,1 +1,1 @@
-# elp-learnings 1.0
+# elp-learnings 1.0.0
